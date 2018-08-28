@@ -12,11 +12,64 @@ image: ""
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: BigCommerce API V3 - Upload a new product image to a single product
+  x-api-slug: storehashv3catalogproductsidimages-post
+  description: Adds a new product image from a publicly accessible URL. May fail if
+    the hosting website is forcing HTTPS connections with TLS 1.0 (as this has been
+    deprecated).
+  image: ""
+  humanURL: http://bigcommerce.com
+  baseURL: https://api.bigcommerce.com//stores
+  tags: Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/storehashv3catalogproductsidimages-post-openapi.md
+- name: BigCommerce API V3 - Create a new product with variants
+  x-api-slug: storehashv3catalogproducts-post
+  description: Sample request for creating a new product with variants through V3
+    Catalog API
+  image: ""
+  humanURL: http://bigcommerce.com
+  baseURL: https://api.bigcommerce.com//stores
+  tags: Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/storehashv3catalogproducts-post-openapi.md
+- name: BigCommerce API V3 - Create a new brand
+  x-api-slug: store-hashv3catalogbrands-post
+  description: ""
+  image: ""
+  humanURL: http://bigcommerce.com
+  baseURL: https://api.bigcommerce.com//stores
+  tags: Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/store-hashv3catalogbrands-post-openapi.md
+- name: BigCommerce API V3 - Create a new subscriber
+  x-api-slug: store-hashv3customerssubscribers-post
+  description: ""
+  image: ""
+  humanURL: http://bigcommerce.com
+  baseURL: https://api.bigcommerce.com//stores
+  tags: Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/store-hashv3customerssubscribers-post-openapi.md
+- name: BigCommerce API V3 - Create a new category
+  x-api-slug: store-hashv3catalogcategories-post
+  description: ""
+  image: ""
+  humanURL: http://bigcommerce.com
+  baseURL: https://api.bigcommerce.com//stores
+  tags: Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/store-hashv3catalogcategories-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://betterdoctor.api.gallery.streamdata.io

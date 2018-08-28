@@ -8,11 +8,40 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "95684"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/mattermost/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Mattermost API Reference - Create a new job.
+  x-api-slug: jobs-post
+  description: |-
+    Create a new job.
+    __Minimum server version: 4.1__
+    ##### Permissions
+    Must have `manage_jobs` permission.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/mattermost/jobs-post-openapi.md
+- name: Mattermost API Reference - Generate a new token
+  x-api-slug: commandscommand-idregen-token-put
+  description: |-
+    Generate a new token for the command based on command id string.
+    ##### Permissions
+    Must have `manage_slash_commands` permission for the team the command is in.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/mattermost/commandscommand-idregen-token-put-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://matrix.api.gallery.streamdata.io

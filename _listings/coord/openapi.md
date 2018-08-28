@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Coord
 x-complete: 1
@@ -14,4 +13,34 @@ produces:
 - application/json
 consumes:
 - application/json
----
+paths:
+  /{location_id}/session:
+    post:
+      summary: Create a new session
+      description: |-
+        Create a new session for the specified user at this location_id. Returns it with either
+        the start_time set, or a follow-on token (barcode, number, etc.) that the end user must use
+        to initiate the session at the location.
+
+        On success, the response will be the newly created session:
+        ```
+          {
+            "id":1,
+            "start_time":"2018-04-12T00:14:20.292Z",
+            "user_id":"00000000-0000-0000-0000-000000000000"
+          }
+        ```
+      operationId: post_session
+      x-api-path-slug: location-idsession-post
+      parameters:
+      - in: query
+        name: access_key
+        description: The API access key for the request
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - New
+      - Session

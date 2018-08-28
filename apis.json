@@ -1,0 +1,926 @@
+{
+	"name": "Streadata.io API Gallery - New",
+	"description": "This is a repository of new APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/new.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://new.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "SendGrid",
+			"x-api-slug": "sendgrid",
+			"description": "Delivering your transactional and marketing emails through the worlds largest cloud-based email delivery platform. Send with confidence.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgrid.jpg",
+			"humanURL": "http://sendgrid.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/sendgrid/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Eventbrite",
+			"x-api-slug": "eventbrite",
+			"description": "Eventbrite brings people together through live experiences. Discover events that match your passions, or create your own with online ticketing tools.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg",
+			"humanURL": "http://eventbriteapi.com",
+			"baseURL": "https://www.eventbrite.com//%7Bdata-type%7D/",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/eventbrite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cisco WebEx",
+			"x-api-slug": "cisco-webex",
+			"description": "Cisco Webex is the leading enterprise solution for video conferencing & web conferencing today. This secure software-based platform for video & audio conferencing, group messaging & webinars helps organizations be more productive.Participants can join ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/730-cisco-webex.jpg",
+			"humanURL": "https://webex.com",
+			"baseURL": "https://api.ciscospark.com//v1",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/cisco-webex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Instructure",
+			"x-api-slug": "instructure",
+			"description": "Instructure makes software that makes smarter people. Products include Canvas LMS, Bridge and Canvas Network.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/820-instructure.jpg",
+			"humanURL": "http://instructure.com",
+			"baseURL": "https://canvas.instructure.com//api/v1",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/instructure/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ONLYOFFICE",
+			"x-api-slug": "onlyoffice",
+			"description": "ONLYOFFICE is an online office suite integrated with a collaboration platform to manage documents, projects, team and customer relations in one place.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1175-teamlab.jpg",
+			"humanURL": "http://api.teamlab.com/",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/onlyoffice/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fastly",
+			"x-api-slug": "fastly",
+			"description": "Fastlys edge cloud platform powers fast, secure, and scalable digital experiences.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1414-fastly.jpg",
+			"humanURL": "http://www.fastly.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/fastly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "123FormBuilder",
+			"x-api-slug": "123formbuilder",
+			"description": "Create free web forms for your website within minutes, build complex workflows, sell online and more. With the simple drag & drop interface, building an online form, survey, poll or quiz is a breeze. Sign up for free to get started!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1638-123contactform.jpg",
+			"humanURL": "http://www.123formbuilder.com",
+			"baseURL": "https://api.123contactform.com//v2",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/123formbuilder/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "moltin",
+			"x-api-slug": "moltin",
+			"description": "The comprehensive eCommerce API infrastructure for any platform. Moltin handles data storage and eCommerce logic in the cloud so that you can focus on creating great customer experiences.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/moltin-logo.png",
+			"humanURL": "https://moltin.com",
+			"baseURL": "https://api.moltin.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/moltin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Reddit",
+			"x-api-slug": "reddit",
+			"description": "Reddit is a community of millions of users engaging in the creation of content and the sharing of conversation across tens of thousands of topics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg",
+			"humanURL": "http://www.reddit.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/reddit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DigitalOcean",
+			"x-api-slug": "digitalocean",
+			"description": "DigitalOcean is a simple and fast cloud hosting service built for developers. Customers can create a cloud server in 55 seconds, and pricing plans start at only $5 per month for 512MB of RAM, 20GB SSD, 1 CPU, and 1TB Transfer. Featuring a 99.99% Uptime SLA, DigitalOcean has servers located in New York, San Francisco, and Amsterdam. The DigitalOcean control panel interface is simple and intuitive, which power users can replicate on a larger scale with the company&rsquo;s API. DigitalOcean uses KVM virtualization and additionally hosts a library of helpful walkthroughs and tutorials that cover server configuration and optimization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DO_Logo_Horizontal_Black-3500c326.png",
+			"humanURL": "https://www.digitalocean.com",
+			"baseURL": "https://example.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/digitalocean/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transifex",
+			"x-api-slug": "transifex",
+			"description": "Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11776-transifex.jpg",
+			"humanURL": "https://www.transifex.com/",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/transifex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Shopify",
+			"x-api-slug": "shopify",
+			"description": "Shopify is a commerce platform that allows anyone to easily sell online at a retail location and everywhere in between. It offers a professional online storefront, a payment solution to accept credit cards, and the Shopify POS application to power retail sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png",
+			"humanURL": "https://www.shopify.com/",
+			"baseURL": "https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/shopify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rotten Tomatoes",
+			"x-api-slug": "rotten-tomatoes",
+			"description": "Rotten Tomatoes is a website launched in August 1998 devoted to film reviews and news; it is widely known as a film review aggregator. Coverage now includes TV content as well. The name derives from the practice of audiences throwing rotten tomatoes when disapproving of a poor stage performance. The company was created by Senh Duong and since January 2010 has been owned by Flixster, which itself was acquired in 2011 by Warner Bros.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rotten-tomatoes-logo.png",
+			"humanURL": "http://rottentomatoes.com",
+			"baseURL": "https://api.rottentomatoes.com//api/public/v1.0",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/rotten-tomatoes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "3dcart",
+			"x-api-slug": "3dcart",
+			"description": "The 3dcart shopping cart software is a complete web store solution for anyone looking to start an online business, add a shopping cart to their existing website, or to replace their existing shopping cart platform. 3dcart includes the latest, most innovative features, tools, support and technology needed to build, promote and grow your online business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21488-www-3dcart-com.jpg",
+			"humanURL": "http://www.3dcart.com",
+			"baseURL": "https://apirest.3dcart.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/3dcart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BigCommerce",
+			"x-api-slug": "bigcommerce",
+			"description": "BigCommerce is the world&rsquo;s leading cloud ecommerce platform for established and rapidly-growing businesses. Combining enterprise functionality, an open architecture and app ecosystem, and market-leading performance, BigCommerce enables businesses to grow online sales with 80% less cost, time and complexity than on-premise software. BigCommerce powers B2B and B2C ecommerce for more than 60,000 SMBs, 2,000+ mid-market businesses, more than 25 Fortune 1000 companies, and industry-leading brands.",
+			"image": "",
+			"humanURL": "http://bigcommerce.com",
+			"baseURL": "https://api.bigcommerce.com//stores",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "New Relic",
+			"x-api-slug": "new-relic",
+			"description": "New Relic???s digital intelligence platform lets developers, ops, and tech teams measure and monitor the performance of their applications and infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg",
+			"humanURL": "https://newrelic.com/",
+			"baseURL": "https:///v2/",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/new-relic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Snowball",
+			"x-api-slug": "aws-snowball",
+			"description": "Snowball is a petabyte-scale data transport solution that uses secure appliances totransfer large amounts of datainto and out of theAWS cloud. Using Snowball addresses common challenges with large-scale data transfers including high network costs, long transfer times, and security concerns. Transferring data with Snowball is simple, fast, secure, and can be as little as one-fifth the cost of high-speed Internet.With Snowball, you don&rsquo;t need to write any code or purchase any hardware to transfer your data. Simply create a job in the AWS Management Console and a Snowball appliance will be automatically shipped to you*. Once it arrives, attach the appliance to your local network, download and run the Snowball client to establish a connection, and then use the client to select the file directories that you want to transfer to the appliance. The client will then encrypt and transfer the files to the appliance at high speed. Once the transfer is complete and the appliance is ready to be returned, the E Ink shipping label will automatically update and you can track the job status viaAmazon Simple Notification Service (SNS), text messages, or directly in the Console.Snowball uses multiple layers of security designed to protect your data including tamper-resistant enclosures, 256-bit encryption, and an industry-standard Trusted Platform Module (TPM) designed to ensure both security and full chain-of-custody of your data. Once the data transfer job has been processed and verified, AWS performs a software erasure of the Snowball appliance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSImportExportSnowball.png",
+			"humanURL": "https://aws.amazon.com/snowball/",
+			"baseURL": ":///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/aws-snowball/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HitBTC",
+			"x-api-slug": "hitbtc",
+			"description": "We bring cutting-edge technology to the Bitcoin ecosystem!    Hitbtc provides an excellent trading terminal based on professional trading software which is suitable for new and sophisticated users.    As one of our valued customers, we understand how i...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hitbtc-logo.png",
+			"humanURL": "https://hitbtc.com",
+			"baseURL": "https:////api/2",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/hitbtc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Neblio",
+			"x-api-slug": "neblio",
+			"description": "Neblio was born out of the need for simple and intuitive tools and solutions to drive the adoption of blockchain technology in the enterprise space. We are working on tools, services, and APIs that will simplify and revolutionize the way that businesses deploy next-generation applications on the Neblio Blockchain Platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26754-neblio.jpg",
+			"humanURL": "https://nebl.io",
+			"baseURL": "https://ntp1node.nebl.io//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/neblio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yappes",
+			"x-api-slug": "yappes",
+			"description": "Travel API Discovery & Marketplace",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28121-yappes-com.jpg",
+			"humanURL": "https://yappes.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/yappes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Santander Bank",
+			"x-api-slug": "santander-bank",
+			"description": "Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary of Spanish Santander Group. It is based in Boston and its principal market is the northeastern United States. It has $54.7 billion in deposits, operates about 650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people. It offers an array of financial services and products including retail banking, mortgages, corporate banking, cash management, credit card, capital markets, trust and wealth management, and insurance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg",
+			"humanURL": "https://www.santanderbank.com",
+			"baseURL": "https://openapi.santander.co.uk/open-banking/v2.1/",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/santander-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Amadeus",
+			"x-api-slug": "amadeus",
+			"description": "Amadeus travel technology helps businesses connect to the global travel ecosystem, manage operations more effectively and serve travellers better than ever",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg",
+			"humanURL": "https://amadeus.com",
+			"baseURL": "https://api.sandbox.amadeus.com//v1.2",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/amadeus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Freesound",
+			"x-api-slug": "freesound",
+			"description": "Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse. Freesound provides new and interesting ways of accessing these samples, allowing users to browse the sounds in new ways using keywords, a sounds-like type of browsing and more--upload and download sounds to and from the database, under the same creative commons license, and interact with fellow sound-artists!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Freesound_project_website_logo.png",
+			"humanURL": "https://freesound.org",
+			"baseURL": "https://www.freesound.org//apiv2",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/freesound/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mattermost",
+			"x-api-slug": "mattermost",
+			"description": "Open source, private cloud Slack-alternative, Workplace messaging for web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure, configurable, and scalable from teams to the enterprise.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png",
+			"humanURL": "https://mattermost.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/mattermost/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Zap.org",
+			"x-api-slug": "zap-org",
+			"description": "Access oracles that bring real-world decentralized data to the blockchain. The Zap Store allows users to create, publish, and subscribe to smart contract and decentralized application compatible data feeds. Zap is building a novel, market based solutio...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28229-zap-org.jpg",
+			"humanURL": "https://zap.org",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/zap-org/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WayBlazer",
+			"x-api-slug": "wayblazer",
+			"description": "WayBlazer uses artificial intelligence-driven software to transform online travel planning",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28273-www-wayblazer-ai.jpg",
+			"humanURL": "https://www.wayblazer.ai",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/wayblazer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Quovo",
+			"x-api-slug": "quovo",
+			"description": "Quovo&rsquo;s API provides methods for retrieving data from financial institutions on behalf of clients, advisors, and other users. This documentation includes detailed explanations of API endpoints and common data definitions. Please note that this documentation does not list all API endpoints. Additionally, you may not have access to all of the listed endpoints depending on the services you&rsquo;ve purchased from Quovo.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28293-quovo.jpg",
+			"humanURL": "http://quovo.com",
+			"baseURL": "https://example.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/quovo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wealthfront",
+			"x-api-slug": "wealthfront",
+			"description": "Were hiring! Come help us re-architect the financial industry the right way. Take a look at our open positions here; https://www.wealthfront.com/careers.    Were located in Redwood City, CA, right next to the Caltrain station. Feel free to stop in to...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28316-www-wealthfront-com.jpg",
+			"humanURL": "https://www.wealthfront.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/wealthfront/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayRun",
+			"x-api-slug": "payrun",
+			"description": "An open, scalable, transparent and HMRC accredited payroll API. Put the power of payroll into your application today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg",
+			"humanURL": "http://www.payrun.io",
+			"baseURL": "https://api.test.payrun.io//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/payrun/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rebilly",
+			"x-api-slug": "rebilly",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png",
+			"humanURL": "https://www.rebilly.com",
+			"baseURL": "https://api.rebilly.com//v2.1",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/rebilly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flat",
+			"x-api-slug": "flat",
+			"description": "Whether youre a beginner or a professional composer, our user-friendly music composition software gives you all the tools that you need to make your own sheet music. You can write, listen, share and discover music scores right in your web browser on any device",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flat-logo.png",
+			"humanURL": "http://flat.io",
+			"baseURL": "https://api.flat.io//v2",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/flat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BC Geographical Names",
+			"x-api-slug": "bc-geographical-names",
+			"description": "Geographical names are more than labels on maps and road signs. They can reveal patterns of settlement, exploration and migration, and mirror outside influences to our history - aspects of the heritage and promise of an area that might otherwise be overlooked or forgotten by visitors and later generations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png",
+			"humanURL": "https://apps.gov.bc.ca/pub/bcgnws/",
+			"baseURL": "https://apps.gov.bc.ca//pub/geomark",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bc-geographical-names/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yapily",
+			"x-api-slug": "yapily",
+			"description": "Yapily is how people connect to banks, easily! We are an API Only technology provider whose mission is to enable innovative products to connect to banks, empowering a new generation of financial services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/yapily-logo.png",
+			"humanURL": "https://www.yapily.com",
+			"baseURL": "https://api.yapily.com:443//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/yapily/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Placer",
+			"x-api-slug": "placer",
+			"description": "Placer provides instant access to location insights derived from foot-traffic of millions of consumers, delivering visibility into offline behavior. Our highly efficient SDK runs 24/7 in the background, identifying location visits while consuming less ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28802-www-placer-io.jpg",
+			"humanURL": "https://www.placer.io",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/placer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NxtPort",
+			"x-api-slug": "nxtport",
+			"description": "NxtPort opens the gates to the Port of the future. This project is a milestone in the digitalization of logistics and cargo.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg",
+			"humanURL": "https://www.nxtport.eu",
+			"baseURL": "https://api-sb.nxtport.eu//PortCallPlus/v1",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/nxtport/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kentico Cloud",
+			"x-api-slug": "kentico-cloud",
+			"description": "Kentico Cloud is the #1 CMS that enables digital teams to collaborate quickly to create engaging personalized experiences across any device. Free 30-day trial!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg",
+			"humanURL": "https://kenticocloud.com/",
+			"baseURL": "https://deliver.kenticocloud.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/kentico-cloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LiveChat",
+			"x-api-slug": "livechat",
+			"description": "LiveChat is an offline customer service software with live support, help desk software, and web analytics capabilities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg",
+			"humanURL": "https://www.livechatinc.com/",
+			"baseURL": "https://api.livechatinc.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/livechat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Broadleaf Commerce",
+			"x-api-slug": "broadleaf-commerce",
+			"description": "Broadleaf Commerce is a software technology company headquartered in Dallas, Texas, providing an open source Java eCommerce platform based on Spring Framework.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28889-www-broadleafcommerce-com.jpg",
+			"humanURL": "https://www.broadleafcommerce.com",
+			"baseURL": "https://demo.broadleafcommerce.org//api/v1",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/broadleaf-commerce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coherent Data Adapter: OpenFIGI Client Edition",
+			"x-api-slug": "coherent-data-adapter-openfigi-client-edition",
+			"description": "Eliminate redundant mapping processes, streamline the trade workflow and reduce operational risk with more than 300 trillion potential identifiers available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28890-openfigi-com.jpg",
+			"humanURL": "https://openfigi.com",
+			"baseURL": "https:///",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/coherent-data-adapter-openfigi-client-edition/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coord",
+			"x-api-slug": "coord",
+			"description": "Coord is a mobility company that creates seamless mobility and self-driving experiences today through deep integrations. The company offers bike-share API, Curbs API, Tolls API, Routing API and etc.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coord-logo.png",
+			"humanURL": "https://coord.co",
+			"baseURL": "https://api.coord.co//v1/users",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/coord/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Logicbroker",
+			"x-api-slug": "logicbroker",
+			"description": "Logicbroker provides beautiful technology that unites brands, retailers, and the systems they rely on. Harness the latest in cloud and supply chain automation technology with unrivaled speed and integration flexibility. We craft the connections that enable digital commerce.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logicbroker-logo.png",
+			"humanURL": "https://www.logicbroker.com/",
+			"baseURL": "https://stage.commerceapi.io//",
+			"tags": "New",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/logicbroker/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "New",
+	"include": [
+		{
+			"name": "SendGrid",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/sendgrid/apis.yaml"
+		},
+		{
+			"name": "Eventbrite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/eventbrite/apis.yaml"
+		},
+		{
+			"name": "Cisco WebEx",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/cisco-webex/apis.yaml"
+		},
+		{
+			"name": "Instructure",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/instructure/apis.yaml"
+		},
+		{
+			"name": "ONLYOFFICE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/onlyoffice/apis.yaml"
+		},
+		{
+			"name": "Fastly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/fastly/apis.yaml"
+		},
+		{
+			"name": "123FormBuilder",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/123formbuilder/apis.yaml"
+		},
+		{
+			"name": "moltin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/moltin/apis.yaml"
+		},
+		{
+			"name": "Reddit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/reddit/apis.yaml"
+		},
+		{
+			"name": "DigitalOcean",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/digitalocean/apis.yaml"
+		},
+		{
+			"name": "Transifex",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/transifex/apis.yaml"
+		},
+		{
+			"name": "Shopify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/shopify/apis.yaml"
+		},
+		{
+			"name": "Rotten Tomatoes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/rotten-tomatoes/apis.yaml"
+		},
+		{
+			"name": "3dcart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/3dcart/apis.yaml"
+		},
+		{
+			"name": "BigCommerce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bigcommerce/apis.yaml"
+		},
+		{
+			"name": "New Relic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/new-relic/apis.yaml"
+		},
+		{
+			"name": "AWS Snowball",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/aws-snowball/apis.yaml"
+		},
+		{
+			"name": "HitBTC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/hitbtc/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "Neblio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/neblio/apis.yaml"
+		},
+		{
+			"name": "Yappes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/yappes/apis.yaml"
+		},
+		{
+			"name": "Santander Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/santander-bank/apis.yaml"
+		},
+		{
+			"name": "Amadeus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/amadeus/apis.yaml"
+		},
+		{
+			"name": "Freesound",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/freesound/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "Mattermost",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/mattermost/apis.yaml"
+		},
+		{
+			"name": "Zap.org",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/zap-org/apis.yaml"
+		},
+		{
+			"name": "WayBlazer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/wayblazer/apis.yaml"
+		},
+		{
+			"name": "Quovo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/quovo/apis.yaml"
+		},
+		{
+			"name": "Wealthfront",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/wealthfront/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "PayRun",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/payrun/apis.yaml"
+		},
+		{
+			"name": "Rebilly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/rebilly/apis.yaml"
+		},
+		{
+			"name": "Flat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/flat/apis.yaml"
+		},
+		{
+			"name": "BC Geographical Names",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/bc-geographical-names/apis.yaml"
+		},
+		{
+			"name": "Yapily",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/yapily/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "Placer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/placer/apis.yaml"
+		},
+		{
+			"name": "NxtPort",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/nxtport/apis.yaml"
+		},
+		{
+			"name": "Kentico Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/kentico-cloud/apis.yaml"
+		},
+		{
+			"name": "LiveChat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/livechat/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "Broadleaf Commerce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/broadleaf-commerce/apis.yaml"
+		},
+		{
+			"name": "Coherent Data Adapter: OpenFIGI Client Edition",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/coherent-data-adapter-openfigi-client-edition/apis.yaml"
+		},
+		{
+			"name": "Coord",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/coord/apis.yaml"
+		},
+		{
+			"name": "Logicbroker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/logicbroker/apis.yaml"
+		}
+	]
+}

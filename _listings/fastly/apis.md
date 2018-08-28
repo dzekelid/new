@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1414-fastl
 x-kinRank: "8"
 x-alexaRank: "89106"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/fastly/apis.md
 specificationVersion: "0.14"
 apis: []

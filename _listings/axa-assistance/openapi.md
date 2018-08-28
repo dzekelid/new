@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: AXA Assistance
 x-complete: 1
@@ -74,4 +73,3 @@ paths:
       - individual
       - travel
       - quotesales
----

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: 123FormBuilder
 x-complete: 1
@@ -158,4 +157,3 @@ paths:
       tags:
       - New
       - Account
----

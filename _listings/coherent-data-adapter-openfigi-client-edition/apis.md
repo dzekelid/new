@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28890-open
 x-kinRank: "7"
 x-alexaRank: "2116239"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/coherent-data-adapter-openfigi-client-edition/apis.md
 specificationVersion: "0.14"
 apis: []

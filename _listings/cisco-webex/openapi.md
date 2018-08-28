@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Cisco WebEx
 x-complete: 1
@@ -14,4 +13,28 @@ produces:
 - application/json
 consumes:
 - application/json
----
+paths:
+  /events:
+    get:
+      summary: List Events (new messages)
+      description: |-
+        List events in your organization. Several query parameters are available to filter the response.
+        Long result sets will be split into pages.
+
+        https://developer.webex.com/endpoint-events-get.html
+      operationId: EventsGet4
+      x-api-path-slug: events-get
+      parameters:
+      - in: query
+        name: resource
+      - in: query
+        name: type
+      responses:
+        200:
+          description: OK
+      tags:
+      - Video Conferencing
+      - List
+      - Events
+      - (new
+      - Messages)

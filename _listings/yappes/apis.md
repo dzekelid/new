@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28121-yapp
 x-kinRank: "7"
 x-alexaRank: "14740957"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/yappes/apis.md
 specificationVersion: "0.14"
 apis: []

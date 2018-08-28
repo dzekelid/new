@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: DigitalOcean
 x-complete: 1
@@ -113,4 +112,3 @@ paths:
       tags:
       - New
       - Tag
----

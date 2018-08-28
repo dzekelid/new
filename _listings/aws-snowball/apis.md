@@ -24,11 +24,25 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/aws-snowball/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Snowball API - Update Job
+  x-api-slug: actionupdatejob-get
+  description: |-
+    While a job's JobState value is New, you can update some of
+          the information associated with a job.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSImportExportSnowball.png
+  humanURL: https://aws.amazon.com/snowball/
+  baseURL: :///
+  tags: Amazon Web Services, Data, Security, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/aws-snowball/actionupdatejob-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.simple.queue.service.api.gallery.streamdata.io

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Instructure
 x-complete: 1
@@ -15,4 +14,20 @@ produces:
 - application/json
 consumes:
 - application/json
----
+paths:
+  /sections/{id}/crosslist/new_course_id:
+    post:
+      summary: Cross-list a Section
+      description: Cross-list a section.
+      operationId: crosslist-a-section
+      x-api-path-slug: sectionsidcrosslistnew-course-id-post
+      responses:
+        200:
+          description: OK
+      tags:
+      - Sections
+      - Id
+      - Crosslist
+      - New
+      - Course
+      - Id

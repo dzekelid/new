@@ -8,11 +8,22 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/moltin/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Moltin - Create a new Product
+  x-api-slug: v2products-post
+  description: Create a new product.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/moltin-logo.png
+  humanURL: https://moltin.com
+  baseURL: https://api.moltin.com//
+  tags: Commerce, Target, Commerce, Stack Network, Retail, Kiosk, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/moltin/v2products-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://mocklab.api.gallery.streamdata.io

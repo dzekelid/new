@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgr
 x-kinRank: "9"
 x-alexaRank: "10000"
 tags: New
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/sendgrid/apis.md
 specificationVersion: "0.14"
 apis:
@@ -30,6 +30,22 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/sendgrid/partner-settingsnew-relic-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/sendgrid/partner-settingsnew-relic-get-openapi.md
+- name: SendGrid - Patch Partner Settings New Relic
+  x-api-slug: partner-settingsnew-relic-patch
+  description: |-
+    **This endpoint allows you to update or change your New Relic partner settings.**
+
+    Our partner settings allow you to integrate your SendGrid account with our partners to increase your SendGrid experience and functionality. For more information about our partners, and how you can begin integrating with them, please visit our [User Guide](https://sendgrid.com/docs/User_Guide/Settings/partners.html).
+
+    By integrating with New Relic, you can send your SendGrid email statistics to your New Relic Dashboard. If you enable this setting, your stats will be sent to New Relic every 5 minutes. You will need your New Relic License Key to enable this setting. For more information, please see our [Classroom](https://sendgrid.com/docs/Classroom/Track/Collecting_Data/new_relic.html).
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgrid.jpg
+  humanURL: http://sendgrid.com
+  baseURL: https://api.sendgrid.com//v3
+  tags: API LIfeyclessss, Imports, Stack Network, Stack, Technology, SaaS, Emails,
+    Emails, Messages, Messages, Relative Data, Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/new/master/_listings/sendgrid/partner-settingsnew-relic-patch-openapi.md
 x-common:
 - type: x--net-library
   url: https://sendgrid.com/docs/Code_Examples/csharp.html
